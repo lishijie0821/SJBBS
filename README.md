@@ -6,9 +6,7 @@ SJBBS
 初次学习CI，初试论坛系统！
 
 
-SJBBS
-=====
+### Authors
 
-栗士杰BBS源码
-
-初次学习CI，初试论坛系统！
+* [Michel-Ange Kuntz](http://www.partikule.net)
+* [Christophe Prudent](http://www.toopixel.ch)
