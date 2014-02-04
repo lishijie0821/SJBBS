@@ -1,12 +1,16 @@
-SJBBS
+SJBBS简介
 =====
 
-栗士杰BBS源码
+个人第一次使用CI建立的BBS系统，欢迎交流学习！
 
-初次学习CI，初试论坛系统！
+### 官方网站
+
+* [博客站](http://www.lishijie.com)
+* [论坛站](http://bbs.lishijie.com)
+
+### 联系方式
+* QQ：82198990
+* E-mail：admin@lishijie.com
+* [腾讯微博](http://t.qq.com/shijie5580)
 
 
-### Authors
-
-* [Michel-Ange Kuntz](http://www.partikule.net)
-* [Christophe Prudent](http://www.toopixel.ch)
